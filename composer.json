@@ -1,0 +1,16 @@
+{
+    "name": "kay/matmal",
+    "autoload": {
+        "psr-4": {
+            "Libs\\":"_classes/Libs/",
+            "Helpers\\":"_classes/Helpers"
+        }
+    },
+    "authors": [
+        {
+            "name": "Tadashi",
+            "email": "kaunghtetaung374@gmail.com"
+        }
+    ],
+    "require": {}
+}
